@@ -12,8 +12,6 @@ unction init {
   cd ../..
   checkVersionNumber
 }
-  checkVersionNumber
-}
 unction init {
   cd ../..
   checkVersionNumber
