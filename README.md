@@ -12,11 +12,6 @@ unction init {
   TAG_NAME="v$VERSION_NUMBER"unction init {
 }
   TAG_NAMeckVersionNumber
-  TAG_NAME="v$VERSION_NUMBER"
-}
-unction init {
-  cd ../..
-  checkVersionNumber
   TAG_NAME="v$VERSION_NUMBER"unction init {
   cd ../..
   checkVersionNumber
