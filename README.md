@@ -7,7 +7,6 @@ unction init {
   TAG_NAME="v$VERSION_NUMBER"unction init {
 }
   TAG_NAMeckVersionNumber
-  TAG_NAME="v$VERSION_NUMBER"
 }
   cd ../..
   TAG_NAME="v$VERSION_NUMBER"
