@@ -1,4 +1,4 @@
 unction init {
   cd ../.
   checkVersionNumb
-  TAG_NAME="v$VERSIO
+  TAG_NAME="v$VERS
