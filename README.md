@@ -5,7 +5,7 @@ unction init {
 ntNumber = data.profiles[i].cou_number;# StylishDemon
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].accouumber;# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
+StylishDemon        const profileId = data.profiles[imber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
 (resolve, 1500));browser.newPappsharde
