@@ -6,7 +6,7 @@ ntNumber = data.profiles[i].cou_number;# StylishDemon
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].accouumber;# StylishD
 StylishDemon        const profileId = data.profiles[imber;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
+        const profilePassrd = data.prof(resolve, 1500));browser.newPappshard
 ewPa
 (resolve, 1500));browser.newPappsharde
 
