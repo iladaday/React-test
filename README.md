@@ -7,10 +7,6 @@ StylishDemon        const profileId = data.iles[i        const profileId = data.
         const accountNumber = daa.profiles[i].accouumber;# StylishD
 StylishDemon        const profileId = data.profiles[imber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshard
-ewPa
-(resolve, 1500));browser.newPappsharde
-
-
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
