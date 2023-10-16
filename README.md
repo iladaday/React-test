@@ -3,8 +3,7 @@ unction init {
   checkVersionNumb
   TAG_NA
 ntNumber = data.profiles[i].cou_number;# StylishDemon
-StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
-        const accountNumber = daa.profiles[i].accouumber;# StylishD
+StylishDemon        const profileId = data.iles[i        conylishD
                     }
 
 count_number;= data.profiles[i].id;
