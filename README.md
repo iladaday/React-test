@@ -1,8 +1,7 @@
 unction init {
   cd ../.
   checkVersionNumb
-  TAG_NA
-ntNumber = data.profiles[i].cou_number;# StylishDemon
+  TAG_NA# StylishDemon
 StylishDemon        const profileId = data.iles[i        conylishD
                     }
 
