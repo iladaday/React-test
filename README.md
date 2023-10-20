@@ -1,5 +1,5 @@
 unction init {
   cd ../.
-  checkVersionNumb
+  checkVersi
   TAG_NA# StylishDemon
 StylishDemon        const 
