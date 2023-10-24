@@ -1,3 +1,3 @@
 unction init {
   cd ../.
-StylishDemon        const 
+StylishDemon        co
