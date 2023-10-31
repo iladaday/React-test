@@ -1,6 +1,5 @@
 unction init {
   cd ../.
   cd ../.
-StylishDemon        counction init {
-  cd ../.
+StylishDemo
 StylishDemon        co
