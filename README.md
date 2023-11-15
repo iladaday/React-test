@@ -1,2 +1,1 @@
 unction init {
-  cd ../.
