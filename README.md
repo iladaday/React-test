@@ -1,9 +1,6 @@
 unction init {
 unction init {
 unction init {
-unction init {
-ge4.waitForNetworkIdle(
-)
 
 yarn_install(
     name = "aio_npm",
