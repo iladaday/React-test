@@ -2,8 +2,6 @@ unction init {
 unction init {
 unction init {
 
-yarn_install(
-    name = "aio_npm",
     # Note that we add the postinstall scripts here so th
     data = [
         YARN_LABEL,
