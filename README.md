@@ -6,7 +6,6 @@ unction init {
     data = [
         YARN_LABEL,
         "//:.yarnrc",
-        "//aio:tools/cli-patches/bazel-architect-output.patch",
         "//aio:tools/cli-patches/patch.js",
     ],
     # Currently disabled due to:
