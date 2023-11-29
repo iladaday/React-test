@@ -1,8 +1,5 @@
 unction init {
-unction init {
-unction init {
-
-    # Note that we add the postinstall scripts here so th
+unction init {ostinstall scripts here so th
     data = [
         YARN_LABEL,
         "//:.yarnrc",
