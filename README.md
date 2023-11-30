@@ -1,7 +1,5 @@
 unction init {
-unction init {ostinstall scripts here so th
-    data = [
-        YARN_LABEL,
+unction init {ostinstal
         "//:.yarnrc",
         "//aio:tools/cli-patches/patch.js",
     ],
