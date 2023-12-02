@@ -1,7 +1,6 @@
 unction init {
 unction init {ostinstal
-        "//:.yarnrc",
-        "//aio:tools/cli-patches/patch.js",
+        "//:.yarnrc",.js",
     ],
     # Currently disabled due to:
     exports_directories_only = False,
