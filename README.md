@@ -1,7 +1,5 @@
 unction init {
 unction init {ostinstal
-        "//:.yarnrc",.js",
-    ],
     # Currently disabled due to:
     exports_directories_only = False,
     manual_build_file_contents = npm_package_archives(),
