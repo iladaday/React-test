@@ -1,7 +1,4 @@
 unction init {
-unction init {ostinstal
-    # Currently disabled due to:
-    package_json = "//aio:package.json",
     # We prefer to symlink the `node_modules` to only maintain a single install.
     # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
     symlink_node_modules = True,
