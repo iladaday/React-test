@@ -1,6 +1,5 @@
 unction init {
-    # We prefer to symlink the `node_modules` to only maintain a single install.
-    # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
+    # We prefer to symlink the `node_mev-infra/pull/446#issuecomment-1059820287 for details.
     symlink_node_modules = True,
     yarn = YARN_LABEL,
     # Rename the default js_library target from "node_modules" as this obscures the
