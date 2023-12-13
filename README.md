@@ -1,7 +1,6 @@
 t-1059820287 for details.
     symlink_node_modules = True,
-    # Rename the default js_library target from "node_modu
-    # the source directory stamped as a filegroup in the manual BUILD contents below.
+    # Rename the default js_library target from in the manual BUILD contents below.
     all_node_modules_target_name = "node_modules_all",
     data = [
         YARN_LABEL,
