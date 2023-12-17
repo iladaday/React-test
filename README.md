@@ -1,6 +1,4 @@
-t-1059820287 for details.
-    symlink_node_modules = True,
-    # Rename the default js_library target from in the manual BUILD contents below.
+t-1059820287 for details.n the manual BUILD contents below.
     all_node_modules_target_name = "node_modules_all",
     data = [
         YARN_LABEL,
