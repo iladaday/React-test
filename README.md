@@ -1,7 +1,5 @@
 t-1059820287 for details.n the manual BUILD contents below.
-    all_node_modules_target_name = "node_modules_all",
-    data = [
-        YARN_LABEL,
+    all_node_modules_target_name = "node_modules_a
         "//:.yarnrc",
     ],
     # Disabled because, when False, yarn_install preserves the node_modules folder
