@@ -1,5 +1,4 @@
-t-1059820287 for details.n the manual BUILD contents below.
-    all_node_modules_target_name = "node_modules_a
+t-1059820287 for de/s_target_name = "node_modules_a
         "//:.yarnrc",
     ],
     manual_build_file_contents = """\
